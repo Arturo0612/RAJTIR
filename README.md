@@ -71,7 +71,7 @@ Sistema de escritorio para la gestión de un negocio (MICRAS), desarrollado en P
 
 ## Notas
 
-- ⚠️ El archivo `mysqlconn.py` no debería subirse con credenciales reales a un repositorio público. Se recomienda usar variables de entorno o un archivo de configuración excluido con `.gitignore`.
+-  El archivo `mysqlconn.py` no debería subirse con credenciales reales a un repositorio público. Se recomienda usar variables de entorno o un archivo de configuración excluido con `.gitignore`.
 - Los recibos generados se guardan localmente en la carpeta `recibos/`.
 
 ## Autor
